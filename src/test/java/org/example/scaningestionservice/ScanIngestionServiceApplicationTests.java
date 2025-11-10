@@ -1,0 +1,13 @@
+package org.example.scaningestionservice;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ScanIngestionServiceApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
